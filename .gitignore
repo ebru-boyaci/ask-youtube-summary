@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+sdist/
+wheel/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Streamlit local files
+.streamlit/
+
+# Logs
+*.log
+
+# OpenAI API key file (if used)
+*.openai_api_key
+
+# Temporary files
+*.tmp
+*.bak
