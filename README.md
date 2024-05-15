@@ -47,4 +47,4 @@ streamlit run yt_summary.py
 
 ## Configuration
 
-Before using the application, you need to set the `OPEN_API_KEY` variable in the script to your OpenAI API key. This key is required for accessing the GPT model for generating summaries and answering questions.
+Before using the application, you need to set the `OPEN_API_KEY` variable in the script to your OpenAI API key. This key is required for accessing the GPT model for generating summaries and answering questions. 👋🏻👋🏻👋🏻👋🏻
