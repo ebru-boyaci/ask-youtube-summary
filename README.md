@@ -4,6 +4,7 @@ This application utilizes the power of AI to provide summaries of YouTube videos
 
 ## Features
 
+
 - **YouTube Video Transcription and Summary**: Automatically transcribe and summarize the content of a YouTube video.
 - **Interactive Q&A**: Ask questions and get answers based on the video's summary.
 - **Streamlit Web Interface**: Easy-to-use interface for interacting with the application.
