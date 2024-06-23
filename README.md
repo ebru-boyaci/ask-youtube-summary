@@ -39,6 +39,7 @@ To run the application, use the following command:
 streamlit run yt_summary.py
 ```
 
+
 ## How to Use
 
 1. Enter the URL of the YouTube video you want to summarize.
